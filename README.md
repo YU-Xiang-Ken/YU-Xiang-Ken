@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @YU-Xiang-Ken
 - 👀 I’m interested in Python, Matlab, Data Mining.
-- 🌱 I’m currently learning Data Mining and KNIME.
+- 🌱 I’m currently learning Data Mining, KNIME and Python.
 - 💞️ I’m looking to collaborate on Data Analysis Project.
 - 📫 How to reach me Bosch Laser Equipment Dongguan Ltd.
 
