@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @YU-Xiang-Ken
-- 👀 I’m interested in Python, Matlab, Data Mining.
-- 🌱 I’m currently learning Data Mining, KNIME and Python.
-- 💞️ I’m looking to collaborate on Data Analysis Project.
-- 📫 How to reach me Bosch Laser Equipment Dongguan Ltd.
+- 👀 I’m interested in Python, Matlab, Engineering.
+- 🌱 I’m currently learning Python, Matlab and HFSS.
+- 💞️ I’m looking to collaborate on telecommunication project.
+- 📫 How to reach me University of Sydney.
 
 <!---
 YU-Xiang-Ken/YU-Xiang-Ken is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
